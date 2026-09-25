@@ -33,5 +33,5 @@
     "--compile-commands-dir=d:\\02_github\\01_AminSBU\\28_esp32_codes\\esp32\\build"
   ],
   "idf.flashType": "UART",
-  "idf.portWin": "COM16"
+  "idf.portWin": "COM3"
 }
